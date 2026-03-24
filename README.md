@@ -1,36 +1,31 @@
 ## 👋 Hi, I'm Julia
 
 🎓 Computer Science @ LMU Munich  
-📊 Data Analytics | Machine Learning | Automation  
-
----
+📊 Data Analytics | Machine Learning | Automation
 
 ## 🚀 About Me
 I enjoy turning data into insights and building efficient, data-driven solutions.  
 Currently focused on data analytics, automation, and business intelligence.
 
----
 
 ## 🛠️ Tech Stack
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" height="40"/>
-
----
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40"/>
+</p>
 
 ## 💼 Experience
 - Deloitte — Tax Technology Consulting (Working Student)  
-- WTS — Data Analytics & Process Optimization  
-
----
+- WTS — Data Analytics & Process Optimization 
 
 ## 📫 Contact
 
-Email
-LinkedIn
+Email julia.goihman@gmail.com 
+LinkedIn 
 
 ---
 ⭐️ *Open to opportunities & collaborations
