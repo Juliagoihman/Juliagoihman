@@ -22,9 +22,11 @@ Currently focused on data analytics, automation, and business intelligence.
 - WTS — Data Analytics & Process Optimization 
 
 ## 📫 Contact
-
-Email julia.goihman@gmail.com 
-LinkedIn 
+<p>
+  <a href="mailto:julia.goihman@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+![LinkedIn](https://img.shields.io/badge/Julia%20Goihman-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)
 
 ---
 ⭐️ *Open to opportunities & collaborations
