@@ -3,7 +3,6 @@
 🎓 Computer Science @ LMU Munich  
 📊 Data Analytics | Machine Learning | Automation
 
-## 🚀 About Me
 I enjoy turning data into insights and building efficient, data-driven solutions.  
 Currently focused on data analytics, automation, and business intelligence.
 
@@ -19,9 +18,9 @@ Currently focused on data analytics, automation, and business intelligence.
 
 ## 💼 Experience
 - Deloitte — Tax Technology Consulting (Working Student)  
-- WTS — Data Analytics & Process Optimization 
+- WTS — Data Analytics & Process Optimization (Working Student)
+- MEAG — Data Standardization and Modelling of Tools (Internship)
 
-## 📫 Contact
 ## 📫 Contact
 
 <p>
@@ -33,6 +32,7 @@ Currently focused on data analytics, automation, and business intelligence.
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
   </a>
 </p>
+
 ⭐️ Open to opportunities & collaborations
 <!--
 **Juliagoihman/Juliagoihman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
