@@ -22,14 +22,18 @@ Currently focused on data analytics, automation, and business intelligence.
 - WTS — Data Analytics & Process Optimization 
 
 ## 📫 Contact
+## 📫 Contact
+
 <p>
   <a href="mailto:julia.goihman@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40"/>
   </a>
-![LinkedIn](https://img.shields.io/badge/Julia%20Goihman-LinkedIn-0077B5?style=for-the-badge&logo=linkedin)
-
----
-⭐️ *Open to opportunities & collaborations
+  
+  <a href="https://www.linkedin.com/in/julia-goihman-0732a2219">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40"/>
+  </a>
+</p>
+⭐️ Open to opportunities & collaborations
 <!--
 **Juliagoihman/Juliagoihman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
