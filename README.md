@@ -7,7 +7,6 @@
 I enjoy turning data into insights and building efficient, data-driven solutions.  
 Currently focused on data analytics, automation, and business intelligence.
 
-
 ## 🛠️ Tech Stack
 
 <p align="left">
